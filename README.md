@@ -7,3 +7,4 @@ brief side project learning about Mariadb, installing it as it would be in a wor
 
 
 ## Setting up
+![Setting up](screenshots/C1.png)
