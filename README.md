@@ -49,3 +49,10 @@ Adding the items, it got a bit temperamental having to re-write lines because id
 ![Database learning](screenshots/S3.png)
 
 So far this is the part that has easily come the most natural to so much so i immediately tried to what id do at work which would be searching the old material number first as a vague search, which in the context didn't provide much as they all currently go off the same sequence of 'ELE' which is something to add variety to in the next 4-6 i add but i reframed by location instead using 'E1.2' and gave me a better idea. Again this part felt most natural to what i already do the the vague LIKE searches and in a lot of  ways better because you can layer your search with AND and then manufacturer which if i was in sap and someone asked me "who supplies this part?" i would have to find the part go int MMBE then go into display material then go into a specific layer that to  get my answer or going into a recent PO etc rather than adding AND.
+
+![Database learning](screenshots/P4.png)
+![Database learning](screenshots/S4.png)
+
+Finished off this database demo with 10 lines which feels like just enough variety to be able be able to search a category and be left with usually 2-4 parts and have to use additional featured like AND to layer your search down to 1. Next is going to be more of the admin side of Maria which i think some things again will be similar to functions i use with SAP to lets say if someone bringing  an item or part they didn't end up using for their job and their ticket was in a big pile of tickets Ive already booked out but i knew the item number i could look at the materials movements, then track back to when i booked it and reverse it or another example might be a specific part to machine and the engineer doesn't know the details but has the machines location i could go into the machines logs to see what's been booked out against it etc.
+
+
