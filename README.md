@@ -55,4 +55,10 @@ So far this is the part that has easily come the most natural to so much so i im
 
 Finished off this database demo with 10 lines, which feels like just enough variety to be able be able to search a category and be left with usually 2-4 parts having to use additional features like AND to layer your search down to 1. Next is going to be more of the admin side of Maria which i think some things again will be similar to functions i use with SAP to lets say if someone bringing  an item or part they didn't end up using for their job and their ticket was in a big pile of tickets Ive already booked out but i knew the item number i could look at the materials movements, then track back to when i booked it and reverse it or another example might be a specific part to machine and the engineer doesn't know the details but has the machines location i could go into the machines logs to see what's been booked out against it etc.
 
+### Admin based learning
+
+![Database learning](screenshots/SM1.png)
+![Database learning](screenshots/SM2.png)
+
+brief rerun of service management, understand these concept from doing the same with SSH when originally making my host-only network of this current project 2 but i understand how these might be used differently for Mariadb. 
 
