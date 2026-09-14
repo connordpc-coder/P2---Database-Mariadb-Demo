@@ -62,3 +62,13 @@ Finished off this database demo with 10 lines, which feels like just enough vari
 
 brief rerun of service management, understand these concept from doing the same with SSH when originally making my host-only network of this current project 2 but i understand how these might be used differently for Mariadb. 
 
+---
+
+##### Backing up and Restoring
+
+![Database learning](screenshots/B1.png)
+![Database learning](screenshots/B2.png)
+![Database learning](screenshots/B3.png)
+
+
+
