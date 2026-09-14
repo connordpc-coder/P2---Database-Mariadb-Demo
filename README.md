@@ -70,5 +70,6 @@ brief rerun of service management, understand these concept from doing the same 
 ![Database learning](screenshots/B2.png)
 ![Database learning](screenshots/B3.png)
 
+Created a backup/dump of the database i made as a .sql file and added a new database to restore that data back in Mariadb.It worked great again is similar to other things Ive done in my current project like copying/scp a directory i built of scripts that simplified reoccurring tasks from one vm to the other but this was mainly about how to handle a .sql file more than anything and right now it seems understandable enough. 
 
 
